@@ -1,0 +1,10 @@
+--input file: path of database file in csv or Arff format.
+--classifier: string with the name of machine learning algortihms (e.g, CAMP_RF, CAMP_SVM4, CAMP_SVM, ANFIS_SVM)
+--ub = an integer number that denotes the upper bound. That is the maximum percentage of features that the individuals of the initial population have.  
+--lb = an integer number that denotes the lower bound. That is the minimum percentage of features that the individuals of the initial population have. 
+--popSize= an integer number that indicates the population size.
+--ngwi= Number of generation without improvement (percentage of maxGen)
+--pm=a float number that denotes the mutation rate
+--pc= a float number that denotes the crossover rate
+--maxGen= maximum number of generation.
+--s = long number that indicates the seed for the random generator
