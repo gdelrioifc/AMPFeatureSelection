@@ -30,7 +30,7 @@ private Classifier camp_SVM() {<br>
 &nbsp;&nbsp;&nbsp;}<br>
 The key point here is to exactly copy configuration of the used ML algorithm in Weka to the method clf.setOption.<br><br>
 After this, we just need to add the method defined to the switch with a name of our preference, for instance,<br><br>
-case "LIBSVM_new":<br><br>
+case "LIBSVM_new":<br>
 &nbsp;&nbsp;&nbsp;&nbsp;model = camp_SVM();<br>
 &nbsp;&nbsp;&nbsp;&nbsp;learning_scheme = "weka.classifiers.functions.LibLinear"; //name <br>
 &nbsp;&nbsp;&nbsp;&nbsp;break;<br><br>
