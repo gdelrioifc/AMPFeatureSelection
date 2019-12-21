@@ -1,6 +1,6 @@
 # README #
 
-This README describes the use of a Java implementation of a genertic algorithm used to select features for machine-learning purposes.
+This README describes the use of a Java implementation of a genetic algorithm used to select features for machine-learning purposes. The work is originally published in the XXXXXX journal.
 
 ### What is this repository for? ###
 
