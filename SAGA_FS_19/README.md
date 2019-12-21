@@ -1,10 +1,11 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This README describes the use of a Java implementation of a genertic algorithm used to select features for machine-learning purposes.
 
 ### What is this repository for? ###
 
-* Quick summary
+* This ditro contains the java executables to select attributes for machine-learning purposes. The files are written en java, and use Weka methods.
+
 * Version 1.0 (21/12/19)
 
 ### How do I get set up? ###
