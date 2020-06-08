@@ -1,6 +1,6 @@
 # README #
 
-This README describes the use of a Java implementation of a genetic algorithm used to select features for machine-learning purposes. The work is originally published. If you use the data or codes in your work, we would appreciate if you cite the following publication:
+This README describes the use of a Java implementation of a genetic algorithm used to select features for machine-learning purposes. The work is originally published. If you use the data or codes provided here in your work, we would appreciate if you cite the following publication:
 
 Beltran JA, Del Rio G, Brizuela CA. An automatic representation of peptides for effective antimicrobial activity classification. Comput Struct Biotechnol J. 2020 Feb 26;18:455-463. doi: 10.1016/j.csbj.2020.02.002. PMID: 32180904; PMCID: PMC7063200.
 
